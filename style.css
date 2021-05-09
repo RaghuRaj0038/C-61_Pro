@@ -1,0 +1,153 @@
+body {
+    text-align: center;
+    background-image: url(download.jfif);
+    background-size: cover;
+    text-align: center;
+}
+
+img {
+    border-radius: 50px;
+    height: 50%;
+    width: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Cherry Swash';
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    height: 300px;
+    width: 400px;
+    border: 100px;
+    border-radius: 30px;
+}
+
+.line {
+    height: 6px;
+    width: 100px;
+    background-color: yellow;
+    margin: 8px auto;
+}
+
+li {
+    text-align: center;
+    display: inline;
+    margin: 10px;
+    width: 150px;
+}
+
+h1 {
+    font-family: Merriweather;
+}
+
+p {
+    font-family: Roboto;
+}
+
+.menu {
+    text-shadow: none;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    background-color: black;
+    width: 92.2%;
+    margin-top: 0px;
+}
+
+.link {
+    float: center;
+    padding-top: 5px;
+    padding-left: 33px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    font-family: 'Oswald', sans-serif;
+    color: darkblue;
+    font-size: 20px;
+    display: inline;
+}
+
+.link:hover {
+    color: #18FFFF;
+    cursor: pointer;
+}
+
+a:hover {
+    color: #18FFFF;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#r:hover {
+    transform: scale(0.9)
+}
+
+#r {
+    transition: transform.2s;
+    border: 10px solid #AAAAAA
+}
+
+#writing a {
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: blue !important;
+}
+
+#contact {
+    background: linear-gradient(#fff200 0%, #ff8800 100%);
+}
+
+.contact1 a {
+    color: aliceblue;
+    text-shadow: none;
+}
+
+.contact1 h4 {
+    display: inline;
+}
+
+#My Favorite Books {
+    background: linear-gradient(#00ffbb 0%, #15ff00 100%);
+}
+
+#my work {
+    background: linear-gradient(#fdff7d 0%, #ffb3b3 100%);
+}
+
+#bio {
+    background: linear-gradient(#ff8000 0%, #ff0d00 100%);
+    padding: 20px;
+    text-align: center;
+}
+
+#my favourite hobby {
+    background: linear-gradient(#00f2ff 0%, #007bff 100%);
+    padding: 20px;
+    text-align: center;
+}
+
+ul {
+    position: sticky;
+}
+
+img {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
